@@ -24,7 +24,7 @@ ___
 * functionality to distinguish the section in view ( While navigating through the page, the section that is active in the viewport be will be distinguished from the other sections)
 
 * functionality to scroll to sections( Clicking on a navigation item should scroll to the appropriate section of the page).
-
+***
 ## Resources that helped me create this project
 
 Stack Overflow [here](https://stackoverflow.com/)
